@@ -11,3 +11,4 @@
 ### Volleyball Env
 #### Spike-Serve
 ![Robot in Spiking Motion](https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png)
+<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png" width="400"/>
