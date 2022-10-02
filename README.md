@@ -8,4 +8,4 @@
 <img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/pose_dribble_4.png" width="600"/>
 
 ### Volleyball Env (Spike-Serve)
-<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png" width="600"/> !<img src="https://github.com/etorobot/MuJoKaleido-Basketball-Robot/blob/main/pictures/DIG%20pose%202.png" width="400"/>
+<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png" width="600"/> !<img src="https://github.com/etorobot/MuJoKaleido-Basketball-Robot/blob/main/pictures/DIG%20pose%202_.png" width="400"/>
