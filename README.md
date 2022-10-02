@@ -1,4 +1,4 @@
-# Reinforcement learning MuJoCo environment for traininig a humanoid robot (ロボットのバスケ)
+# Reinforcement learning MuJoCo environment for training a humanoid robot (ロボットのバスケ)
 
 ## Balance and Stability
 ## Environment to train sports-skills
