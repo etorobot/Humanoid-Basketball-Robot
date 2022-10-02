@@ -6,9 +6,8 @@
 ## Environment to train sports-skills
 ### Basketball Environment
 #### Dribbling
-![Dribbling a basketball](https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/pose_dribble_4.png)
+<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/pose_dribble_4.png" width="600"/>
 
 ### Volleyball Env
 #### Spike-Serve
-![Robot in Spiking Motion](https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png)
-<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png" width="400"/>
+<img src="https://github.com/etorobot/Humanoid-Basketball-Robot/blob/main/pictures/SPK%20Pose%201.png" width="600"/>
