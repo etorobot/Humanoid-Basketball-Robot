@@ -1,8 +1,6 @@
-# learn to balance in MuJoCo
+# Reinforcement learning MuJoCo environment to train balance and stabilization on a humanoid
 
 ロボットのバスケ
-
-## Reinforcement learning MuJoCo environment to train balance and stabilization on a humanoid
 
 ## Environment to train sports-skills
 ### Basketball Environment
