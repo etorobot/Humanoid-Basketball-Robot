@@ -1,0 +1,17 @@
+---
+gravity:
+  default:
+    distribution: uniform
+    values:
+      - [-9.91, -9.71] #Z AXIS
+      # - [9.05, 9.8] #Y LATERAL
+      # - [9.1, 9.9]5ssss
+
+# viscosity:
+#   default:
+#     values:
+#       - [0, 0]
+# density:
+#   default:
+#     values:
+#       - [0, 0]

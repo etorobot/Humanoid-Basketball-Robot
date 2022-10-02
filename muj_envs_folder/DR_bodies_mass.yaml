@@ -1,0 +1,75 @@
+---
+mass:
+  BODY:
+    distribution: "percent"
+    values:
+      - [5.183, 0.25]
+  CHEST_Y_LINK:
+    distribution: "percent"
+    values:
+      - [1.047, 0.25]
+  CHEST_P_LINK:
+    distribution: "percent"
+    values:
+      - [19.909, 0.25]
+  HEAD_Y_LINK:
+    distribution: "percent"
+    values:
+      - [0.102, 0.25]
+  HEAD_P_LINK:
+    distribution: "percent"
+    values:
+      - [3.476, 0.25]
+  # BALL:
+  #   distribution: "percent"
+  #   values:
+  #     - [.62, 0.5]
+  # L_SHOULDER_P_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_SHOULDER_P_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # L_SHOULDER_R_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_SHOULDER_R_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # L_SHOULDER_Y_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_SHOULDER_Y_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # L_ELBOW_P_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_ELBOW_P_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # L_ELBOW_Y_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_ELBOW_Y_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # R_WRIST_Y_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+  # L_WRIST_P_LINK:
+  #   distribution: "uniform"
+  #   values:
+  #     - [0.1, 0.43125]
+

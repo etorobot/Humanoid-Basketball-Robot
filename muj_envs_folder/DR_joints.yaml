@@ -1,0 +1,19 @@
+---
+damping:
+  default:
+    distribution: "percent"
+    values:
+      - [10, .12]
+# armature:
+#   default:
+#     values:
+#       - [0.75, 2.5]
+frictionloss:
+  default:
+    distribution: "uniform"
+    values:
+      - [0.0, 0.25]
+# stiffness:
+#   default:
+#     values:
+#       - [0.0, 1]
